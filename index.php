@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#principal">Inicio</a>
+                        <a class="nav-link" aria-current="page" href="#principal">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#aplicacion">Aplicacion
@@ -52,7 +52,7 @@
                 producción agrícola, a fin de generar tecnología adecuada a nuestros recursos y cultura, con lo cual se
                 pretende eliminar la dependencia tecnológica y económica del país.
             </div>
-            <div class="col-sm-12 col-md-6">
+            <div class="col-sm-12 col-md-6 mt-sm-50">
                 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
