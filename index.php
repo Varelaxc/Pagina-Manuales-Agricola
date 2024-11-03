@@ -178,7 +178,7 @@
                         </li>
                         <li>
                             <p>
-                                Diego Alejandro Gonzales Nery
+                                Diego Alejandro Martinez Nery
                             </p>
                         </li>
                     </ul>
