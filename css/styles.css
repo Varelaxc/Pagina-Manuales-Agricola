@@ -11,9 +11,34 @@ h1.navbar-brand {
 
 }
 
-.anchor  {
+.anchor {
     display: block;
     position: relative;
     top: -100px;
     visibility: hidden;
+}
+
+#qr-code {
+    display: none;
+}
+
+
+@media only screen and (max-width: 767px) {
+    #nav-sm {
+        display: block;
+    }
+
+    #nav-md {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #nav-sm {
+        display: none;
+    }
+
+    #nav-md {
+        display: block;
+    }
 }
