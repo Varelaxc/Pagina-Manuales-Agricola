@@ -129,16 +129,29 @@
                     </select>
                 </div>
                 <div class="col-12">
-                    <button class="btn btn-primary" name="submit">Registrar</button>
+                    <button class="btn btn-primary" id="boton-registro" name="submit">Registrar</button>
                 </div>
             </form>
 
-            <div id="qr-code">
+            <div id="qr-code" class="text-center">
                 <hr>
                 <div class="bg-success bg-gradient text-center text-white">
                     REGISTRO EXITOSO
                 </div>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Commons_QR_code.png" alt="">
+            </div>
+
+            <div id="registro-erroneo">
+                <hr>
+                <div class="bg-danger bg-gradient text-center text-white">
+                    VOLVER A INTENTAR
+                </div>
+            </div>
+            <div id="registro-invalido">
+                <hr>
+                <div class="bg-warning bg-gradient text-center text-white">
+                    FORMULARIO INVALIDO
+                </div>
             </div>
 
         </div>
