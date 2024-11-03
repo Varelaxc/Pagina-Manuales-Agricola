@@ -138,7 +138,7 @@
                 <div class="bg-success bg-gradient text-center text-white">
                     REGISTRO EXITOSO
                 </div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Commons_QR_code.png" alt="">
+                <img src="imagenes/qr.png" alt="">
             </div>
 
             <div id="registro-erroneo">
